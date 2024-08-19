@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+tensorflow
+emoji
+scikit-learn
+matplotlib
+keras
+flask
+requests
+seaborn
